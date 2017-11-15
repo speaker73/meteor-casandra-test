@@ -1,0 +1,14 @@
+{
+  "name": "cassandra_alexandra",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "babel-runtime": "^6.26.0",
+    "cassandra-client": "^0.15.2",
+    "cassandra-driver": "^3.3.0",
+    "cassmask": "^1.7.8",
+    "meteor-node-stubs": "^0.3.2"
+  }
+}
